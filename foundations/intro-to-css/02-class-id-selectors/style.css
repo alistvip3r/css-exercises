@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.single {
+    background-color: #fcb6dd;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos {
+    color: blue;
+    font-size: 36px;
+}
+
+.single.cool {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #91f891;
+    font-size: 24px;
+    font-weight: bold;
+}
